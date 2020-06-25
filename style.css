@@ -74,12 +74,12 @@ body{
 /* ============== HER0 ============================ */
 
 .hero{
-    min-height: calc(100vh-60px);
+    min-height: calc(100vh - 60px);
     background: url(images/hero-bg.jpg) center/cover no-repeat;
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 500px;
+    /* height: 500px; */
 
 }
 
