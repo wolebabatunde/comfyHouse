@@ -213,9 +213,10 @@ body{
     height: 100%;
     /* background: transparent; */
     transition: var(--mainSpacing);
-    background: rgb(240, 157, 81, 0.5);
+    background: rgba(247, 125, 123, 0.5);
     z-index: 2;
-    visibility: hidden;  
+    visibility: hidden;
+    
 }
 
 /* NOTE: VISIBILITY WILL BE DISPLAYED DYNAMICALLY WITH JAVASCRIPT BUT IN OTHER TO SEE 

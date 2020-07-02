@@ -1,0 +1,104 @@
+{
+    "items":[
+        {
+            "sys":{"id" : "1"},
+            "fields":{
+                "title":"Queen Bed",
+                "price": 10.99,
+                "image":{"fields":{"file":{
+                    "url":"./images/products-2.jpg"}
+                    }}
+            }
+        },
+
+        {
+            "sys":{"id" : "2"},
+            "fields":{
+                "title":"King Bobs",
+                "price": 254.99,
+                "image":{"fields":{"file":{
+                    "url":"./images/products-3.jpg"}
+                    }}
+            }
+        },
+
+        {
+            "sys":{"id" : "3"},
+            "fields":{
+                "title":"Anonymous",
+                "price": 740.89,
+                "image":{"fields":{"file":{
+                    "url":"./images/products-4.jpeg"}
+                    }}
+            }
+        },
+
+        {
+            "sys":{"id" : "4"},
+            "fields":{
+                "title":"Octopus",
+                "price": 855.99,
+                "image":{"fields":{"file":{
+                    "url":"./images/products-5.jpeg"}
+                    }}
+            }
+        },
+
+        {
+            "sys":{"id" : "5"},
+            "fields":{
+                "title":"The King Maker",
+                "price": 1850.99,
+                "image":{"fields":{"file":{
+                    "url":"./images/products-6.jpg"}
+                    }}
+            }
+        },
+
+        {
+            "sys":{"id" : "6"},
+            "fields":{
+                "title":"Guardian of the Night",
+                "price": 752.41,
+                "image":{"fields":{"file":{
+                    "url":"./images/products-7.jpg"}
+                    }}
+            }
+        },
+
+        {
+            "sys":{"id" : "7"},
+            "fields":{
+                "title":"Dependable",
+                "price": 852.55,
+                "image":{"fields":{"file":{
+                    "url":"./images/products-9.jpg"}
+                    }}
+            }
+        },
+
+        {
+            "sys":{"id" : "8"},
+            "fields":{
+                "title":"warm till eternity",
+                "price": 10.99,
+                "image":{"fields":{"file":{
+                    "url":"./images/products-10.jpeg"}
+                    }}
+            }
+        },
+
+        {
+            "sys":{"id" : "9"},
+            "fields":{
+                "title":"Montain View",
+                "price": 10.99,
+                "image":{"fields":{"file":{
+                    "url":"./images/products-1.jpg"}
+                    }}
+            }
+        }
+
+        
+    ]
+}
